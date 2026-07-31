@@ -2,6 +2,11 @@
   * [Ubuntu](installation/ubuntu/Ubuntu.md)
   * [Troubleshoot](installation/ubuntu/troubleshoot.md)
 
+* [Commands](commands/Commands.md)
+  * [Frequently Used commands](commands/Most%20frequent%20command.md)
+  * [Memory Commands](commands/Memory%20Command.md)
+  * [Find Commands](commands/Find%20Command.md)
+
 * User & Group
 
   * [User](User%20Group/User.md)

@@ -4,6 +4,11 @@ Linux concepts and commands
 
 [Visit Website](https://m-thirumal.github.io/linux-guide)
 
+* [Commands](commands/Commands.md)
+  * [Frequently Used commands](commands/Most%20frequent%20command.md)
+  * [Memory Commands](commands/Memory%20Command.md)
+  * [Find Commands](commands/Find%20Command.md)
+
 * [User Group](https://m-thirumal.github.io/linux-guide/User%20Group)
    1. [Create user with sudo/shell/ssh/..](https://m-thirumal.github.io/linux-guide/User%20Group/sudo%20user.md)
    2. [Password](https://m-thirumal.github.io/linux-guide/User%20Group/passwd.md)
