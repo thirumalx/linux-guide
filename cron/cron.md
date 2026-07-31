@@ -1,6 +1,6 @@
 # Cron
 
-1. [How to start the service on system startup/reboot](cron/How%20to%20run%20scripts%20on%20start%20up?.md)
+1. [How to start the service on system startup/reboot](cron/How%20to%20run%20scripts%20on%20start%20up.md)
 
 2. [Cheet Sheet](cron/cheetsheet.md)
 
