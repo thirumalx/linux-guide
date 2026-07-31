@@ -27,6 +27,7 @@
 * [Process Management](commands/Process%20Management.md)
 * [Quick Reference](commands/Quick%20Reference.md)
 * [Remove SSH Host Identification](commands/Remove%20SSH%20Host%20Identification.md)
+* [Service Managment](commands/Service%20Management.md)
 * [Special Directory Symbols](commands/Special%20Directory%20Symbols.md)
 * [USB Drive  Disk Mounting](commands/USB%20Drive%20%20Disk%20Mounting.md)
 * [Useful Permission Cheat Sheet](commands/Useful%20Permission%20Cheat%20Sheet.md)
