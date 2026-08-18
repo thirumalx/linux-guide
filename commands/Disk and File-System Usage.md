@@ -12,6 +12,18 @@ du
 du -h
 ```
 
+#### In Gb
+
+```bash 
+df -BG
+```
+
+or
+
+```bash
+df -BG | column -t
+```
+
 ### Current Directory Usage
 
 ```bash
