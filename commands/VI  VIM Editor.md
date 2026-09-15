@@ -31,3 +31,13 @@ G
 
 ---
 
+## Replace text
+Press `Esc` button and enter the following command
+
+```bash
+:%s/old_string/new_string/g
+
+Example
+
+:%s/was/were/g
+```
