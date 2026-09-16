@@ -14,7 +14,6 @@
   * [Copy Files Between Systems](commands/Copy%20Files%20Between%20Systems.md)
   * [Copy Files](commands/Copy%20Files.md)
   * [Create and Remove Directories](commands/Create%20and%20Remove%20Directories.md)
-  * [Create Archives](commands/Create%20Archives.md)
   * [Create Symbolic Links](commands/Create%20Symbolic%20Links.md)
   * [Disk and File-System Usage](commands/Disk%20and%20File-System%20Usage.md)
   * [File and Directory Listing](commands/File%20and%20Directory%20Listing.md)
