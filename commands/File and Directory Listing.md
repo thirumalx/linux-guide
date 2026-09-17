@@ -45,3 +45,13 @@ Long format with file-type indicators.
 
 ---
 
+### List files that are added recently
+
+```bash
+find /path/to/folder -type f -newermt "2026-09-15 00:00:00" -printf '%TY-%Tm-%Td %TH:%TM:%TS %p\n' | sort -r
+```
+Example
+
+```bash
+find . -type f -newermt "2026-09-15 00:00:00" -printf '%TY-%Tm-%Td %TH:%TM:%TS %p\n' | sort -r
+```
