@@ -73,4 +73,7 @@ Linux concepts and commands
 * [Log](https://m-thirumal.github.io/linux-guide/log)
    1. [How to clean log files](https://m-thirumal.github.io/linux-guide/log/How%20to%20clean%20log%20files.adoc)
 * Troubleshoot
-  * [Troubleshoot](Troubleshoot/Troubleshoot.md)
+  * [Troubleshoot](Troubleshoot/Troubleshoot.md)\
+
+* [Suspicious](suspicious/What_Changed.md)
+  * [What changed](suspicious/What_Changed.md)
