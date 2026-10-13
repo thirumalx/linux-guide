@@ -2,13 +2,15 @@
 
 ### To check free `RAM` size
 
-    free -m
-    free -g
-    free -k
-
+```bash
+free -m
+free -g
+free -k
+```
 OR
+`top`
 
-    top
+To check the details in kb-mb-gb, press `SHIFT + E`
     
 ### To check/get RAM details
 

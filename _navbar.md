@@ -44,6 +44,11 @@
   * [Password](User%20Group/passwd.md)
   * [Group](User%20Group/Group.md)
 
+* [Hardware](hardware/hardware.md)
+  * [CPU](hardware/cpu.md)
+  * [Hard Disk](hardware/hard%20disk.md)
+  * [RAM](hardware/ram.md)
+
 * [Network](Network/Network.md)
   * [Static IP](Network/Static%20IP/static%20ip.md)
   * [Internet Troubleshoot](Network/Internet/InetAddress.md)
