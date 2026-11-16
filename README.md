@@ -44,12 +44,14 @@ Linux concepts and commands
    3. [User](https://m-thirumal.github.io/linux-guide/User%20Group/User.md)
    4. [Group](https://m-thirumal.github.io/linux-guide/User%20Group/Group.md)
 
+
+* [File System](File%20System/file_system.md)
+  * [Commands](File%20System/Storage.md)
+  * [Allow Other user](File%20System/Allow%20other%20user%20to%20execute%20file.md)
+
 * [HardWare](https://m-thirumal.github.io/linux-guide/Hardware)
    1. [RAM](https://m-thirumal.github.io/linux-guide/Hardware/ram.md)
    2. [CPU](https://m-thirumal.github.io/linux-guide/Hardware/cpu.md)
-
-* [File System](https://m-thirumal.github.io/linux-guide/File%20System)
-   1. [Storage](https://m-thirumal.github.io/linux-guide/File%20System/Storage.md)
 
 * [Network](Network/Network.md)
   * [Static IP](Network/Static%20IP/static%20ip.md)
