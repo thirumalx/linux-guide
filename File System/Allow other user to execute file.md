@@ -16,6 +16,6 @@ sudo setfacl -m u:jboss:--x /home/Thirumal/scripts
 * Check the owner of all level
 
 ```bash
-namei -l /home/Thirumal/scripts/clear_merged_stamped_pdf.sh
+namei -l /home/Thirumal/scripts/print_hello_world.sh
 ```
 
